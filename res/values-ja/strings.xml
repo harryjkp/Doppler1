@@ -1,0 +1,20 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+
+    <!--<string name="app_name">ドップラー</string>-->
+
+
+    <string name="menu_settings">"設定"</string>
+    <string name="Spinner_init">"プレイリストの選択"</string>
+    <string name="current_speed">"現在の速度"</string>
+    <string name="target_speed">"目標速度"</string>
+
+
+    <string name="invert_sound">"音を反転"</string>
+    <!-- decide how the music speeds up or slows down - speeds up when you speed up or slows down when you speed up   -->
+    <string name="invert_explanation">"音楽の再生速度を自分の速度に比例/反比例して変化させる"</string>
+
+    <!--miles per hour etc.-->
+    <string name="units">"ユニット "</string>
+
+
+</resources>

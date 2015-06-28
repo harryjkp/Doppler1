@@ -1,0 +1,20 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+
+    <!--<string name="app_name">دوبلر</string>-->
+
+
+    <string name="menu_settings">"الإعدادات "</string>
+    <string name="Spinner_init">"تحديد قائمة التشغيل"</string>
+    <string name="current_speed">"السرعة الحالية "</string>
+    <string name="target_speed">"السرعة المستهدفة"</string>
+
+
+    <string name="invert_sound">"عكس الصوت "</string>
+    <!-- decide how the music speeds up or slows down - speeds up when you speed up or slows down when you speed up   -->
+    <string name="invert_explanation">"جعل سرعة الموسيقى تتغير معك أو ضدك "</string>
+
+    <!--miles per hour etc.-->
+    <string name="units">"الوحدات "</string>
+
+
+</resources>

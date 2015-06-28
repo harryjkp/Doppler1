@@ -1,0 +1,20 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+
+    <!--<string name="app_name">Doppler</string>-->
+
+
+    <string name="menu_settings">"Einstellungen"</string>
+    <string name="Spinner_init">"Playlist wählen	"</string>
+    <string name="current_speed">"Aktuelle Geschwindigkeit "</string>
+    <string name="target_speed">"Sollgeschwindigkeit "</string>
+
+
+    <string name="invert_sound">"Sound invertieren"</string>
+    <!-- decide how the music speeds up or slows down - speeds up when you speed up or slows down when you speed up   -->
+    <string name="invert_explanation">"Musikgeschwindigkeit für oder gegen dich ändern "</string>
+
+    <!--miles per hour etc.-->
+    <string name="units">"Einheiten "</string>
+
+
+</resources>

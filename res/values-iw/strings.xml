@@ -1,0 +1,20 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">"דופלר"</string>
+
+
+    <string name="menu_settings">"הגדרות"</string>
+    <string name="Spinner_init">"רשימת השמעה בחר"</string>
+    <string name="current_speed">"מהירות נוכחית"</string>
+    <string name="target_speed">"היעד Speed"</string>
+
+
+    <string name="invert_sound">"הפוך סאונד"</string>
+    <!-- decide how the music speeds up or slows down - speeds up when you speed up or slows down when you speed up   -->
+    <string name="invert_explanation">"לבצע את שינוי מהירות מוסיקה עם או נגדך"</string>
+
+    <!--miles per hour etc.-->
+    <string name="units">"יחידות"</string>
+
+
+</resources>
